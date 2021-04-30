@@ -91,6 +91,6 @@ div {
   padding: 10px;
 }
 div:hover {
-  background: rgb(111,127,122) solid;
+  background: pink;
   padding: 20px;
 }
