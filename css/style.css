@@ -19,10 +19,7 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-  display: block;
-  margin-bottom: 5px;
-  padding-bottom: 5px;
-  width: auto;
+
   font-family: Baskerville, serif;
   font-size: 80px;
   font-weight: 400
