@@ -93,4 +93,5 @@ div {
 div:hover {
   background: blue;
   padding: 20px;
+  cursor: pointer;
 }
