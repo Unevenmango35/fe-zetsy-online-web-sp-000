@@ -91,6 +91,6 @@ div {
   padding: 10px;
 }
 div:hover {
-  background: green;
+  background: rgb(111,127,122) solid;
   padding: 20px;
 }
