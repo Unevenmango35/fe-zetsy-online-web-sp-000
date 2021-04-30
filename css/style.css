@@ -18,6 +18,14 @@ body {
 }
 
 /* Write all remaining styles here */
+.h1 {
+  display: block;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  width: auto;
+}
+
+
 #feature {
   display: block;
   width: auto;
